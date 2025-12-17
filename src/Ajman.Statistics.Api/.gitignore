@@ -1,0 +1,11 @@
+﻿# Build folders
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Others
+*.DS_Stores
